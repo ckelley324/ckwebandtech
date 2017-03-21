@@ -1,3 +1,23 @@
 html {
   font-size: 13px;
 }
+
+header {
+  display: inline;
+  background-color: beige;
+}
+
+nav {
+  list-style: none;
+  float: right;
+}
+
+a:active {
+  color: purple;
+}
+
+.about {
+  height: 31rem;
+  background-image: url('../images/skyline.jpg');
+  background-size: cover;
+}
