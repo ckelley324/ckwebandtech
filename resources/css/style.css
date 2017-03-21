@@ -7,7 +7,7 @@ header {
   background-color: beige;
 }
 
-nav {
+nav ul {
   list-style: none;
   float: right;
 }
